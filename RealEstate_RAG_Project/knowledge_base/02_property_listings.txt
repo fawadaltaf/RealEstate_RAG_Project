@@ -1,0 +1,59 @@
+DOCUMENT: Active Property Portfolio & Pricing Sheet
+COMPANY:   Real Estate & Builders (BQRE)
+STATUS: CURRENT | VERSION: v2.4 | EFFECTIVE DATE: 2026-10-01
+
+All sale prices and monthly rents listed below are in Pakistani Rupees (PKR) and exclude government stamp duty and CVT unless explicitly noted.
+
+1. BQRE Marina Heights 3-Bed Luxury Apartment (Property ID: BQRE-AP-101)
+- Location: Clifton Block 4, Karachi (Sea-Facing Tower, 11th Floor)
+- Area & Specs: 2,450 sq. ft., 3 Bedrooms with attached baths, Servant Quarter, 2 Reserved Basement Parking Bays, Standby Generator, High-Speed Lifts.
+- Sale Price: PKR 68,500,000 (PKR 6.85 Crore)
+- Status: Ready for Possession | Clear KDA & SBCA Title.
+
+2. BQRE Palm Villas 500 Sq. Yd. Designer Bungalow (Property ID: BQRE-VL-204)
+- Location: DHA Phase 8, Zone B, Karachi
+- Area & Specs: 500 sq. yd. (4,500 sq. ft.), 5 Master Bedrooms, Imported Kitchen, Landscaped Lawn, Swimming Pool, Solar Hybrid 15kW Backup.
+- Sale Price: PKR 185,000,000 (PKR 18.50 Crore)
+- Status: Vacant & Ready for Immediate Transfer.
+
+3. BQRE TechPark Corporate Office Floor (Property ID: BQRE-CM-309)
+- Location: Shahrah-e-Faisal, PECHS Block 6, Karachi (7th Floor)
+- Area & Specs: 4,200 sq. ft. open-plan commercial floor, Central HVAC, Dedicated Fiber Trunk, 4 Executive Cabins, 6 Dedicated Parking Slots.
+- Monthly Rent: PKR 650,000 per month (10% annual rent escalation).
+- Status: Available for Immediate Lease.
+
+4. BQRE GreenValley 10-Marla Residential Plot (Property ID: BQRE-PL-412)
+- Location: DHA Phase 9 Prism, Sector D, Lahore
+- Area & Specs: 10 Marla (2,250 sq. ft.), 50-ft Wide Boulevard Facing, Possession Utility Paid, Near Central Park & Masjid.
+- Sale Price: PKR 34,000,000 (PKR 3.40 Crore)
+- Status: Open Transfer / Allotment Ready.
+
+5. BQRE Skyline Studio Serviced Apartment (Property ID: BQRE-AP-515)
+- Location: Gulberg III, Main Boulevard, Lahore
+- Area & Specs: 680 sq. ft., Fully Furnished Studio, Smart Access Lock, Rooftop Gym & Cafe, 24/7 Concierge.
+- Sale Price: PKR 19,500,000 (PKR 1.95 Crore) | Estimated Rental Yield: PKR 135,000/month.
+- Status: Limited Inventory (6 units remaining).
+
+6. BQRE Capital Enclave 1-Kanal Modern Residence (Property ID: BQRE-VL-618)
+- Location: Sector F-7/2, Islamabad
+- Area & Specs: 1 Kanal (4,500 sq. ft.), 6 Bedrooms, Double-Height Lounge, Basement Home Theater, Margalla Hills View.
+- Monthly Rent: PKR 950,000 per month (Minimum 2-year lease term).
+- Status: Available from 1st of Next Month.
+
+7. BQRE Bahria Town 125 Sq. Yd. Smart Villa (Property ID: BQRE-VL-721)
+- Location: Precinct 10-A, Bahria Town Karachi
+- Area & Specs: 125 sq. yd., 3 Bedrooms, Roof Terrace, Contemporary Elevation, Gated Security.
+- Sale Price: PKR 21,500,000 (PKR 2.15 Crore)
+- Status: Ready for Possession.
+
+8. BQRE TradeCenter Retail Corner Shop (Property ID: BQRE-RT-825)
+- Location: Jinnah Avenue, Blue Area, Islamabad (Ground Floor)
+- Area & Specs: 1,100 sq. ft. double-height corner showroom with 28-ft glass frontage, suitable for banks, pharmacies, or flagship retail brands.
+- Sale Price: PKR 92,000,000 (PKR 9.20 Crore)
+- Status: Available (Vacant).
+
+9. BQRE Horizon Waterfront 2-Bed Apartment (Property ID: BQRE-AP-930)
+- Location: DHA Phase 8, Creek Vista Zone, Karachi
+- Area & Specs: 1,650 sq. ft., 2 Bedrooms, Marina View Balcony, Community Club Membership Included.
+- Sale Price: PKR 44,000,000 (PKR 4.40 Crore)
+- Status: Under Construction (Possession in 18 months; 30% down payment).

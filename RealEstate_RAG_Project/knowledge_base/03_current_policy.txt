@@ -1,0 +1,21 @@
+POLICY DOCUMENT: Brokerage Commission, Token & Refund Policy (CURRENT)
+COMPANY:   Real Estate & Builders (BQRE)
+POLICY VERSION: v2.0 | EFFECTIVE DATE: 2026-09-01 | STATUS: CURRENT
+
+1. CURRENT BROKERAGE COMMISSION & SERVICE FEES
+- Residential & Commercial Sale Commission: Standard 2% of the final agreed property sale value, payable equally (1% from the Buyer and 1% from the Seller) at the time of Sale Agreement execution.
+- Rental / Leasing Commission: Equivalent to 1 month's agreed rent, payable 50% by the Landlord (half-month rent) and 50% by the Tenant (half-month rent) upon lease signing.
+- Legal Title & NOC Verification Fee: Flat PKR 25,000 per property file (waived 100% if the client completes the purchase through BQRE).
+
+2. CURRENT TOKEN MONEY & DOWN PAYMENT RULES
+- Minimum Token (Bayana) Amount: 2% of the agreed property price (or a minimum of PKR 500,000, whichever is higher) to lock a property listing for 10 calendar days.
+- Payment Mode Compliance: Under FBR real estate regulations, all token and down payment amounts above PKR 500,000 must be paid strictly via Crossed Cheque, Pay Order, or RTGS/IBFT Bank Transfer to the seller's or BQRE escrow account. Cash payments exceeding PKR 500,000 are strictly prohibited.
+- Security Deposit on Rentals: Standard 3 months' refundable security deposit plus 1 month's advance rent prior to key handover.
+
+3. CURRENT TOKEN REFUND & CANCELLATION TIMELINE
+- Seller Title Defect Refund: If BQRE legal due diligence uncovers an unrecorded mortgage, litigation stay order, or fake allotment before transfer, 100% of the buyer's token money is refunded within 5 business days via Pay Order or bank transfer.
+- Mutual Cancellation Inspection: Verified cancellation requests are processed within 3 business days of signed cancellation memo receipt.
+
+4. EXPLICIT EXCEPTIONS TO TOKEN & COMMISSION POLICY
+- Exception 1 (Buyer Default After Clear Title): If the buyer backs out after the 10-day token lock period despite verified clear title documents, the token money is non-refundable and 50% is forfeited to the seller while 50% covers BQRE legal/administrative charges.
+- Exception 2 (Off-Plan Developer Bookings): Off-plan units (such as BQRE Horizon Waterfront Apartments) require a 30% initial down payment instead of a 2% token, and are governed by the developer's 12-installment schedule rather than the 10-day transfer rule.

@@ -1,0 +1,29 @@
+DOCUMENT: Company Overview & Agency Operations
+COMPANY:   Real Estate & Builders (BQRE)
+STATUS: CURRENT | VERSION: v1.0 | EFFECTIVE DATE: 2026-01-15
+
+1. ABOUT   REAL ESTATE & BUILDERS
+  Real Estate & Builders (BQRE) is a registered Pakistani real estate brokerage, property management, and residential development agency operating across Karachi, Lahore, and Islamabad. Founded to bring transparent documentation, verified title checks, and structured installment plans to buyers and tenants, BQRE serves residential homebuyers, commercial investors, overseas Pakistani clients, and corporate tenants.
+
+2. CORE SERVICES
+- Residential & Commercial Property Brokerage (Sale, Purchase, and Long-Term Leasing).
+- Title Verification, NOC Due Diligence, and Sub-Registrar / Society File Transfer Assistance.
+- Turnkey Rental Property Management (Tenant screening, rent collection, and maintenance supervision).
+- Off-Plan Developer Project Bookings with flexible quarterly installment schedules.
+- Property Valuation & Market Feasibility Advisory for corporate and retail investors.
+
+3. PHYSICAL OFFICES & CLIENT EXPERIENCE CENTERS
+- Head Office & Southern Regional Desk: Suite 304, 3rd Floor, Emerald Tower, Clifton Block 5, Karachi, Sindh.
+- DHA Karachi Branch Office: Plot 18-C, Khayaban-e-Shahbaz, Phase 6 DHA, Karachi, Sindh.
+- Central Punjab Office: Office 12, MM Alam Road, Gulberg III, Lahore, Punjab.
+- Capital Territory Desk: Plaza 9, Jinnah Avenue, Blue Area, Islamabad.
+
+4. CLIENT SUPPORT & OPERATING HOURS
+- Digital Property Portal: Open 24/7 at www.banoqabilrealestate.pk.
+- Client Advisory Helpline & WhatsApp Desk: Monday to Saturday, 9:30 AM to 8:30 PM PKT (Closed on Sundays and gazetted public holidays).
+- On-Site Property Viewing & Site Visits: Monday to Saturday, 10:00 AM to 6:30 PM PKT (Prior appointment required 4 hours in advance).
+- Support Phone / WhatsApp: +92-21-35891234 | Official Email: advisory@banoqabilrealestate.pk.
+- Corporate Leasing & Investor Desk: corporate@banoqabilrealestate.pk.
+
+5. INTENDED ASSISTANT USERS
+This internal and client-facing Company Knowledge Assistant is built for BQRE Property Advisors, Legal Documentation Officers, and Prospective Buyers/Tenants to verify active property listings, PKR prices, commission rates, transfer rules, and policy comparisons without risking outdated terms.
